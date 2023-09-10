@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sasanghasaei
 - 👀 I’m interested in ...
-- 🌱 I’m currently a 2nd-year engineering physics student at UBC.
+- 🌱 I’m currently a 3rd-year engineering physics student at UBC.
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me at sasangh@student.ubc.ca
 
